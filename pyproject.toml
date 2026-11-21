@@ -39,9 +39,9 @@ dependencies = [
 text = "mit"
 
 [project.urls]
-Homepage = "https://github.com/thorwhalen/imbed_data_prep"
-Repository = "https://github.com/thorwhalen/imbed_data_prep"
-Documentation = "https://thorwhalen.github.io/imbed_data_prep"
+Homepage = "https://github.com/addaix/imbed_data_prep"
+Repository = "https://github.com/addaix/imbed_data_prep"
+Documentation = "https://addaix.github.io/imbed_data_prep"
 
 [project.optional-dependencies]
 dev = [
